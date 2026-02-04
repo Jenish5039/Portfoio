@@ -54,7 +54,7 @@ export default function HeroSection() {
                         View Projects
                     </motion.a>
                     <motion.a
-                        href="/JENISH_cr.pdf"
+                        href="/Portfoio/JENISH_cr.pdf"
                         download
                         className="btn-secondary w-full sm:w-auto justify-center"
                         whileHover={{ scale: 1.02 }}

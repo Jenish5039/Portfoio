@@ -82,7 +82,7 @@ export default function CTASection() {
                         <ArrowRight size={14} className="sm:w-4 sm:h-4 group-hover:translate-x-1 transition-transform" />
                     </motion.a>
                     <motion.a
-                        href="/JENISH_cr.pdf"
+                        href="/Portfoio/JENISH_cr.pdf"
                         download
                         className="px-6 sm:px-8 py-3 sm:py-4 text-gray-700 bg-white border border-gray-200 rounded-full text-sm font-medium flex items-center justify-center gap-2 hover:border-gray-300 hover:bg-gray-50 transition"
                         whileHover={{ scale: 1.03, y: -3 }}

@@ -43,7 +43,7 @@ export default function Navbar() {
                     whileTap={{ scale: 0.98 }}
                 >
                     <img
-                        src="/logo.jpg"
+                        src="/Portfoio/logo.jpg"
                         alt="JM Logo"
                         className="w-8 h-8 sm:w-9 sm:h-9 rounded-lg object-cover"
                     />
